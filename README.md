@@ -1,11 +1,9 @@
-![image](https://github.com/aaamaroq/Pacman/assets/100299154/62554d42-65f7-4920-8afb-4c2569287603)
-
 
 ---
 
 # Pac-Man Game
 
-![Pac-Man](imagen1.png)
+<img src="imagen1.png" width="200" alt="Pac-Man">
 
 Este proyecto es una implementación de Pac-Man, el clásico juego de arcade, con dos modalidades de juego: el mapa clásico y un mapa generado aleatoriamente utilizando el algoritmo A*.
 
